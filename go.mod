@@ -10,16 +10,16 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gorilla/mux v1.8.0
 	github.com/lopezator/migrator v0.3.0
-	github.com/mattn/go-sqlite3 v1.14.4
-	github.com/moov-io/base v0.12.0
+	github.com/mattn/go-sqlite3 v1.14.5
+	github.com/moov-io/base v0.15.1
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/ory/dockertest/v3 v3.6.1
+	github.com/ory/dockertest/v3 v3.6.2
 	github.com/pariz/gountries v0.0.0-20200430155801-1c6a393df9c7
 	github.com/prometheus/client_golang v1.8.0
 	github.com/xrash/smetrics v0.0.0-20200730060457-89a2a8a1fb0b
 	go4.org v0.0.0-20200411211856-f5505b9728dd
-	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/text v0.3.3
+	golang.org/x/oauth2 v0.0.0-20201109201403-9fd604954f58
+	golang.org/x/text v0.3.4
 )
 
 go 1.13
